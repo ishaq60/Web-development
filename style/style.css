@@ -1,0 +1,75 @@
+header .container {
+    background-image: url("../resources/Banner\ Image.png");
+    background-size: 1320px 600px; /* Set the background size */
+    width: 1320px;
+    height: 600px;
+    margin: auto; /* Center the container horizontally */
+    text-align: center;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .container h2, .container h1 {
+      color: #FFF;
+      font-family: 'Merriweather', sans-serif;
+      margin: 0;
+  }
+  
+  .container h2 {
+      font-size: 32px;
+      color: #FFF;
+text-align: center;
+font-family: Merriweather;
+
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+  }
+  
+  .container h1 {
+      font-size: 72px;
+      line-height: 80px;
+      width: 632px;
+      color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: 95px; 131.944%
+  }
+  .discription{
+    text-align: center;
+    gap: 0px;
+  }
+  .discription .text h1{
+    
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+  }
+  .discription .text h2{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+  }
+  .discription .text h3{
+    color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+  }
